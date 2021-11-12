@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-</div>
+
 
 
 
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Priscila-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
 </div>
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/Priscila-aos">
