@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/Priscila-aos/%22%3E" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Priscila-aos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-aos&layout=compact&langs_count=7&theme=dracula" align="center"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Priscila-aos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-aos&layout=compact&langs_count=7&theme=dracula" align="center"/>
 </div>
  
