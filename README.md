@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://i.imgur.com/Cudr1ST.jpg" align="left" alt="imagem gupy pri" width="250"/>
 
- - Desenvolvedor(a) Full Stack Java Jr - Em Formação | [Generation Brasil](https://brazil.generation.org) 
+ - Desenvolvedora Full Stack Java Jr - Em Formação | [Generation Brasil](https://brazil.generation.org) 
 
  - Aprendendo Java ☕ 
  
