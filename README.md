@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
  - 👩🏽‍💻  Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
 
- - 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
+ - 🌱 Aprendendo Java ☕ 
+ 
+ - Bacharel em Administração de Empresas - PUC SP 
 
  - Pronouns: ela/dela/she/her
 
