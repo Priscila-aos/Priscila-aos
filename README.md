@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá, sejam bem vindes! Sou a Priscila, mas também podem me chamar de Pri
+## Olá, seja bem vinde! Sou a Priscila, mas também pode me chamar de Pri
 
 <img src="https://i.imgur.com/Cudr1ST.jpg" align="left" alt="imagem gupy pri" width="250"/>
 
-- 👩🏽‍💻  Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
+ - 👩🏽‍💻  Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
 
-- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
+ - 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 
-- Pronouns: ela/dela/she/her
+ - Pronouns: ela/dela/she/her
 
 <hr>
 <p>
