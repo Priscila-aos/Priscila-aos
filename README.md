@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <img src="https://i.imgur.com/Cudr1ST.jpg" align="left" alt="imagem gupy pri" width="250"/>
 
- - 👩🏽‍💻  Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
+ - Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
 
- - 🌱 Aprendendo Java ☕ 
+ - Aprendendo Java ☕ 
  
  - Bacharel em Administração de Empresas - PUC SP 
 
