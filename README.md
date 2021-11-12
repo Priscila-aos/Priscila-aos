@@ -52,8 +52,12 @@ Here are some ideas to get you started:
 </div>
   
  ##
-    
+ 
+  <!--
  ![Snake animation](https://github.com/priscila-aos/priscila-aos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lissa-sonoda/lissa-sonoda/blob/output/github-contribution-grid-snake.svg)
+-->
+ ![Snake animation](https://github.com/karinarv/karinarv/blob/output/github-contribution-grid-snake.svg)
  
  </div>
   
