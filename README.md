@@ -1,12 +1,11 @@
 
-## Olá, seja bem vinde! Sou a Priscila, mas também pode me chamar de Pri
-
+## Olá, eu sou a Priscila!
 <!--
 <img src="https://i.imgur.com/Cudr1ST.jpg" align="left" alt="imagem gupy pri" width="250"/> -->
 
- - Desenvolvedora Full Stack Java Jr | [Generation Brasil](https://brazil.generation.org) 
+ - Desenvolvedora Web Full Stack - Jr | [Generation Brasil](https://brazil.generation.org) 
 
- - Aprendendo Java ☕ 
+ - Java ☕ 
  
  - Bacharel em Administração de Empresas - PUC SP 
 
