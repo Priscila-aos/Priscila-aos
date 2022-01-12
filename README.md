@@ -4,7 +4,7 @@
 <!--
 <img src="https://i.imgur.com/Cudr1ST.jpg" align="left" alt="imagem gupy pri" width="250"/> -->
 
- - Desenvolvedora Full Stack Java Jr - Em Formação | [Generation Brasil](https://brazil.generation.org) 
+ - Desenvolvedora Full Stack Java Jr - | [Generation Brasil](https://brazil.generation.org) 
 
  - Aprendendo Java ☕ 
  
