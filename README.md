@@ -3,9 +3,9 @@
 <!--
 <img src="https://i.imgur.com/Cudr1ST.jpg" align="left" alt="imagem gupy pri" width="250"/> -->
 
- - Desenvolvedora Web Full Stack - Jr | [Generation Brasil](https://brazil.generation.org) 
+ - Desenvolvedora Web Full Stack - Java Jr ☕| [Generation Brasil](https://brazil.generation.org) 
 
- - Java ☕ 
+ - Bacharel em Sistemas para Internet - FIAP
  
  - Bacharel em Administração de Empresas - PUC SP 
 
