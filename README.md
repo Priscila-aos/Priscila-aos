@@ -6,9 +6,9 @@
  - Desenvolvedora Web Full Stack - Java Jr ☕| [Generation Brasil](https://brazil.generation.org) 
 
  - Bacharel:
- > Tecnologia da Informação - Univesp
- > Sistemas para Internet - FIAP
- > Administração de Empresas - PUC SP 
+ - _Tecnologia da Informação - Univesp_
+ - _Sistemas para Internet - FIAP_
+ - _Administração de Empresas - PUC SP_ 
 
  - Pronouns: ela/dela/she/her
 
