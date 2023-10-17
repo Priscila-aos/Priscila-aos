@@ -5,7 +5,7 @@
 
  - Desenvolvedora Web Full Stack - Java Jr ☕| [Generation Brasil](https://brazil.generation.org) 
 
- - Bacharel em:
+ -- Bacharel em:
  -  Tecnologia da Informação - Univesp
  -  Sistemas para Internet - FIAP
  -  Administração de Empresas - PUC SP 
