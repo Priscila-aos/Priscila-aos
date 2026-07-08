@@ -10,7 +10,7 @@
 
 <hr>
 <p>
-  <h3> Você pode me encontrar nos ícones abaixo📍 </h3>
+  <h3> Você pode me encontrar nos links abaixo📍 </h3>
   
    
   <a href = "mailto:aospriscila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
